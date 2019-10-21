@@ -6,3 +6,5 @@ a.highlight:hover {
 .head {
   text-align:center
 }
+
+h2:hover::after{color:green;font-size:20px}
