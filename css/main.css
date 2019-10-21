@@ -1,7 +1,8 @@
-body:hover{
-  background-color:#000000;
-  color:#ffffff;
-}
+
+a.highlight:hover {
+  color: #ff0000;
+} 
+
 .head {
   text-align:center
 }
